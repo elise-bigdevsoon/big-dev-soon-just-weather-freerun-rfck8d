@@ -1,4 +1,4 @@
-# Just Weather Project 123
+# Just Weather Project 2
 
 Hello to [BigDevSoon](https://bigdevsoon.me/) 👋
 
